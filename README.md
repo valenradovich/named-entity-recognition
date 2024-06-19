@@ -12,7 +12,7 @@ both are very organized and can be reproduced with any dataset just following th
 ## results
 
 the model was trained for 3 epochs and achieved the following results in colab:
-```json
+```
 {'eval_loss': 0.06109246239066124,
  'eval_precision': 0.9292045202747617,
  'eval_recall': 0.9382481261886118,
