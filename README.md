@@ -1,6 +1,6 @@
 # named entity recognition: fine-tuning BERT
 
-i'm providing a simple example of how to fine-tune a BERT model for named entity recognition (NER) using pytorch and transformers. 
+fine-tune BERT model for named entity recognition (NER), also called entity extraction using pytorch and transformers. 
 
 you'll find the code in the .ipynb format, which you can run in google colab or jupyter notebook and the .py format (found the example on hugging face transformer documentation), which you can run in your local machine or VM.
 
